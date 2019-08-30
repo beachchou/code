@@ -1,0 +1,1 @@
+git config alias.spush 'push --recurse-submodules=on-demand'
